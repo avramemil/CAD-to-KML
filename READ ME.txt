@@ -1,0 +1,11 @@
+hi!
+
+This is one of many other way to convert DXF file to KML
+This soft will convert all lines and polylines form a CAD(dxf) file into red lines in KML
+This script can be improved in so many ways, depending on the need of every person
+Main library used in this script is GDAL
+
+YES, I had created this app with the help of AI(Chat GPT and Microsoft Copilot)
+
+If this app will give you red lines over the globe you can try to choose another EPSG
+or to change units for your CAD file(using "units" comand in autocad for example)
